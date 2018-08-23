@@ -1,1 +1,5 @@
-# lista
+Utilidade pública.
+
+Servidores.
+
+Seedboxes.
