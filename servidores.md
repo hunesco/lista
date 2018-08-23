@@ -2,7 +2,7 @@
 
 **Valores mensais de $X a $Y**
 
-[Online.net](https://www.online.net/en) `| €2 - €400`
+[Online.net](https://www.online.net/en) | €2 - €400
 
 [Hetzner](https://www.hetzner.com/) | [Leilão de servidores](https://robot.your-server.de/order/market) | €2.50 - €352
 
