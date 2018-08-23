@@ -1,9 +1,6 @@
-Servidores
-==========
+## Lista de servidores.
 
-Lista de servidores.
-
-Valores mensais de $X a $Y
+###### Valores mensais de $X a $Y
 
 [Online.net](https://www.online.net/en) | €2 - €400
 
