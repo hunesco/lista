@@ -5,39 +5,29 @@ Lista de servidores.
 
 Valores mensais de $X a $Y
 
-[Online.net](https://www.online.net/en)
-€2 - €400
+[Online.net](https://www.online.net/en) | €2 - €400
 
-https://www.hetzner.com/
-https://robot.your-server.de/order/market
+[Hetzner](https://www.hetzner.com/)
+[Leilão de servidores](https://robot.your-server.de/order/market)
 €2.50 - €352
 
-https://www.kimsufi.com/us/en/
-$3.35 - $30
+[Kimsufi](https://www.kimsufi.com/us/en/) | $3.35 - $30
 
-https://www.ovh.com/world/
-$3.50 - $1375
 
-http://friendlyrdp.com/
-$5 - $34
+[OVH](https://www.ovh.com/world/) | $3.50 - $1375
 
-https://www.leaseweb.com/
-€5 - $732
+[FriendlyRDP](http://friendlyrdp.com/) | $5 - $34
 
-https://oneprovider.com/
-$5 - $960
+[Leaseweb](https://www.leaseweb.com/) | €5 - $732
 
-https://www.maxrdp.com/
-$6 - $260
+[OneProvider](https://oneprovider.com/) | $5 - $960
 
-https://www.soyoustart.com/us/
-$6 - $360
+[MaxRDP](https://www.maxrdp.com/) | $6 - $260
 
-https://hostdzire.com/
-€7 - €449
+[So you Start](https://www.soyoustart.com/us/) | $6 - $360
 
-http://www.coinrdp.com/
-$12 - $70
+[HostDZire](https://hostdzire.com/) | €7 - €449
 
-https://www.i3d.net/
-€21 - €3824
+[CoinRDP](http://www.coinrdp.com/) | $12 - $70
+
+[i3D](https://www.i3d.net/) | €21 - €3824
