@@ -1,4 +1,4 @@
-Servidor | Preço mensal
+Servidores | Preço mensal
 ------------ | -------------
 **[Online.net](https://www.online.net/en)** | **`€2 - €400`**
 **[Hetzner](https://www.hetzner.com/)** | **`€2.50 - €269`**
