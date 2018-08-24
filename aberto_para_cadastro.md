@@ -1,1 +1,3 @@
-[IPTorrents](https://www.iptorrents.com/signup.php) | [IPTorrents | IPT | General | 2018 Review](http://torrentinvites.org/f36/iptorrents-ipt-general-2018-review-360204/)
+Site | Review
+------------ | -------------
+**[SITE Cadastro](https://www.link.link/registrar)** | **[SITE Review](http://link.link/review)**
