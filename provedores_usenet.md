@@ -1,4 +1,4 @@
-Provedor| Preço mensal
+Provedor | Preço mensal
 ------------ | -------------
 **[Usenet-Server](http://www.usenet-server.de/)** | **`€1 - €50`**
 **[NewsXS](https://www.newsxs.nl/)** | **`€1.70 - €50`**
