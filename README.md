@@ -8,4 +8,4 @@
 
 **4:** **[Provedores Usenet](provedores_usenet.md)**
 
-**5:** **[Usenet Indexer.md](usenet_indexer.md)**
+**5:** **[Usenet Indexer](usenet_indexer.md)**
