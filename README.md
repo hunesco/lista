@@ -6,4 +6,6 @@
 
 **3:** **[Seedboxes](seedboxes.md)**
 
-**3:** **[Provedores Usenet](provedores_usenet.md)**
+**4:** **[Provedores Usenet](provedores_usenet.md)**
+
+**5:** **[Usenet Indexer.md](usenet_indexer.md)**
