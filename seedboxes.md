@@ -9,3 +9,4 @@ Provedor | Preço mensal
 **[SuperSeedbox ](http://www.superseedbox.com/seedbox.html)** | **`$15 - $75`**
 **[Cloudboxes io](https://cloudboxes.io/)** | **`€15 - €80`**
 **[RapidSeedbox](https://www.rapidseedbox.com/)** | **`$18 - $67`**
+**[SeedBoxes](http://seedboxes.cc/)** | **`€13.45 - €71.95`**
